@@ -31,4 +31,4 @@ Frontend : HTML5, CSS3 (Custom Properties pour le theming), JavaScript.
 Serveur : Apache/Nginx (WAMP, XAMPP ou LAMP pour le local).
 
 # reseau_entraine
-hackathon imset 
+ hackathon imset 
